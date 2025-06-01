@@ -39,7 +39,6 @@ com.chessgame/
 ├── Network/     # Client-server communication
 ├── Main.java    # Entry point
 
-## Report
-See `report_2221251373.pdf` for full documentation and explanation.
+
 
 Developed as an educational project with ChatGPT assistance for logic, networking, and documentation.
